@@ -1,0 +1,20 @@
+# Node
+node_modules/
+
+# Expo
+.expo/
+dist/
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+
+# mac/linux
+.DS_Store
+
+# logs
+*.log
