@@ -1,4 +1,4 @@
-# Chalo 🌍☕
+# Chalo ☕
 
 ### Real-world connections, made effortless.
 
